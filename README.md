@@ -10,7 +10,9 @@ El presente trabajo final del Máster Universitario en Ciencia de Datos (Data Sc
 
 - El proyecto está realizado en *RStudio*.
 
-- Por protección de datos no se facilitan los ficheros en bruto ni el código ejecutable de este proyecto, sí el .html resultante de la ejecución del mismo, con los fragmentos de código utilizados para la obtención de resultados.
+- El documento *segmentacion_estudiantado_udima.html* contiene los resultados obtenidos en el proceso, con los fragmentos de código utilizados para la obtención de los mismos.
+
+- Por protección de datos no se facilitan los datos en bruto ni el código ejecutable de este proyecto.
 
 # Autoría:
 
