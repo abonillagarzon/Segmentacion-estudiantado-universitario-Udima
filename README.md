@@ -6,6 +6,11 @@ El presente trabajo final del Máster Universitario en Ciencia de Datos (Data Sc
 - Para **predecir la clasificación del estudiantado que no ha finalizado los estudios se aplican técnicas de aprendizaje supervisadas**.
 
 
+# Palabras clave: 
+
+segmentación, *clustering*, educación superior, estudiante, caracterı́sticas, clasificación, predicción.
+
+
 # Requerimientos y resultados:
 
 - El proyecto está realizado en *RStudio*.
@@ -14,9 +19,11 @@ El presente trabajo final del Máster Universitario en Ciencia de Datos (Data Sc
 
 - Por protección de datos no se facilitan los datos en bruto ni el código ejecutable de este proyecto.
 
+
 # Autoría:
 
 La autoría de este proyecto corresponde a Alejandra Bonilla Garzón - [abonillagarzon](https://github.com/abonillagarzon)
+
 
 # Agradecimientos:
 
