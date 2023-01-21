@@ -10,6 +10,10 @@ El presente trabajo final del Máster Universitario en Ciencia de Datos (Data Sc
 
 segmentación, *clustering*, educación superior, estudiante, caracterı́sticas, clasificación, predicción.
 
+# Vídeo resumen:
+https://user-images.githubusercontent.com/93333190/213872976-bccaab4c-df02-4395-82da-c171e7f3ab0c.mp4
+
+
 
 # Requerimientos y resultados:
 
